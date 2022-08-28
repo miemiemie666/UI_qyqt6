@@ -1,4 +1,4 @@
-# UI_qyqt6
+# UI_PyQt6
 UI PYQT6 Python
 
 基于PYQT6编写的串口调试助手上位机
